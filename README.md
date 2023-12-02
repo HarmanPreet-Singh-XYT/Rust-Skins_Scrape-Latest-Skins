@@ -4,7 +4,8 @@ The repo contains the skins file and python scrape file to get All Skins Data La
 # Requirements for scrip
 First you need chrome installed on your PC.\
 Second you need is python installed.\
-internet speed > 10mbps.
+internet speed > 10mbps.\
+Microsoft Excel for easy copy/paste and better visualization
 
 # How to use
 open cmd in that specfic folder.\
